@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou Emanuelle Maia👋
 
 
 - ✨ Atualmente estou focada em Front-End;
